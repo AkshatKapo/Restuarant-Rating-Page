@@ -12,5 +12,12 @@ It displays the average of ratings and number of users
 
 ![RatingDisplay1](https://user-images.githubusercontent.com/94620098/208265313-1600781b-538e-49cc-960d-073a58cdd361.PNG)
 
+## View of the user information table from database: 
+![Userinfo](https://user-images.githubusercontent.com/94620098/208265578-d0c3d30c-b133-4050-ac2b-9becdb11652a.PNG)
+
+## View of the rating infimration table from database: 
+![RatingDisplay2](https://user-images.githubusercontent.com/94620098/208265591-27ef1090-cc5b-4017-83ff-0dbd4243a83a.PNG)
+
+
 
 
