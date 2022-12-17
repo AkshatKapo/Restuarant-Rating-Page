@@ -8,6 +8,9 @@ This is a restaurant rating page where a customer can rate the restaurant. Then 
 ![rating2](https://user-images.githubusercontent.com/94620098/208263831-89171aef-b17e-422d-af0b-dded4d2b8ef4.PNG)
 
 ## Display of Data from the Database :
+It displays the average of ratings and number of users
+
+![RatingDisplay1](https://user-images.githubusercontent.com/94620098/208265313-1600781b-538e-49cc-960d-073a58cdd361.PNG)
 
 
 
